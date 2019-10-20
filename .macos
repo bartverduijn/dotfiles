@@ -856,7 +856,7 @@ install: \n\
   MS Office (https://account.microsoft.com/services/?lang=nl-NL) \n\
   Ziggo Safe Online (https://www.ziggo.nl/mijn-ziggo/producten.html#internet) \n\
 \n\
-Restart Terminal.app \n\
+Restart Terminal.app and set up theme + zsh \n\
 Set up back-up drive \n\
 copy git config from your backup/re-login \n\
 copy .npmrc from your backup/re-login \n\
