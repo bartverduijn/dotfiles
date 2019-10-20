@@ -1,0 +1,35 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.wordWrapColumn": 120,
+    "editor.wordWrap": "bounded",
+    "editor.snippetSuggestions": "top",
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 0,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "editor.fontWeight": "400",
+    "editor.cursorBlinking": "solid",
+    "editor.colorDecorators": false,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+
+    "terminal.integrated.fontSize": 13,
+
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "editor.formatOnPaste": true,
+
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Night Owl",
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true
+}
