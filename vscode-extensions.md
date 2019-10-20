@@ -1,0 +1,30 @@
+# My Visual Studio Code extensions
+
+-   aaron-bond.better-comments@2.0.5
+-   andys8.jest-snippets@1.7.0
+-   angryobject.react-pure-to-class-vscode@1.1.8
+-   christian-kohler.npm-intellisense@1.3.0
+-   christian-kohler.path-intellisense@1.4.2
+-   CoenraadS.bracket-pair-colorizer@1.0.61
+-   dbaeumer.vscode-eslint@1.9.1
+-   dsznajder.es7-react-js-snippets@2.4.3
+-   eg2.vscode-npm-script@0.3.9
+-   esbenp.prettier-vscode@2.3.0
+-   formulahendry.auto-close-tag@0.5.6
+-   formulahendry.auto-rename-tag@0.1.0
+-   kumar-harsh.graphql-for-vscode@1.15.1
+-   mgmcdermott.vscode-language-babel@0.0.24
+-   mikestead.dotenv@1.0.1
+-   mrmlnc.vscode-duplicate@1.2.1
+-   naumovs.color-highlight@2.3.0
+-   Orta.vscode-jest@3.0.2
+-   sdras.night-owl@1.1.3
+-   silvenon.mdx@0.1.0
+-   streetsidesoftware.code-spell-checker@1.7.18
+-   streetsidesoftware.code-spell-checker-dutch@0.2.0
+-   sysoev.language-stylus@1.11.0
+-   vscode-icons-team.vscode-icons@9.4.0
+-   WallabyJs.quokka-vscode@1.0.256
+-   wesbos.theme-cobalt2@2.1.6
+-   wix.vscode-import-cost@2.12.0
+-   xyz.local-history@1.7.0
